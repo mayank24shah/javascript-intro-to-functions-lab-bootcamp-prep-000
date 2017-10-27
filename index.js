@@ -16,6 +16,6 @@ function sayHiToGrandma(string){
 }
 else if (string.toUpperCase()===string){
   return("YES INDEED!")
-}else if (string === "I love you, Grandma.")
+}else if ("I love you, Grandma." === string )
 console.log("I love you, too.")
 }
